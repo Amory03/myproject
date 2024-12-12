@@ -1,0 +1,32 @@
+body{
+
+    background-color:#e8ebef;
+
+}
+
+.mar_btn{
+
+    margin: 1%;
+}
+
+
+
+.sz_image{
+
+    width: 100%;
+    height: auto;
+}
+
+.sand_mar{
+
+    margin-bottom: 1%;
+}
+
+h5{
+display: inline-block;
+
+}
+
+hr{
+    display: inline-flex;
+}

@@ -1,0 +1,14 @@
+body {
+    background-image: url('../../images/bg.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.con{
+    padding-top: 20%;
+}
+h1{
+    color: white;
+    background-color: rgb(177, 116, 116);
+    padding-left: 2%;
+}

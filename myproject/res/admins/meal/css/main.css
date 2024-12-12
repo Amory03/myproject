@@ -1,0 +1,22 @@
+body{
+
+    background-color:#eee;
+
+}
+.crud-card {
+    margin-top: 3%;
+}
+
+.crud-button {
+    font-size: 24px;
+}
+
+nav{
+
+    margin-bottom: 1%;
+}
+
+.gen{
+
+    margin-right: 3%;
+}
